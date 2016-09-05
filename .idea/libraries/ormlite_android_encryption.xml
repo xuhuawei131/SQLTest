@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ormlite-android-encryption">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/ormlite-android-encryption.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

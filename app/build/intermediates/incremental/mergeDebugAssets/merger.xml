@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Administrator\AndroidStudioProjects\SQLTest\app\src\main\assets"><file name="icudt46l.zip" path="C:\Users\Administrator\AndroidStudioProjects\SQLTest\app\src\main\assets\icudt46l.zip"/></source><source path="C:\Users\Administrator\AndroidStudioProjects\SQLTest\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Administrator\AndroidStudioProjects\SQLTest\app\src\debug\assets"/></dataSet></merger>

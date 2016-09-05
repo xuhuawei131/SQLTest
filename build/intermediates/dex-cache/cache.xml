@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\SQLTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="336d1752bd8c3bf3633a0e31b888efbccbe8a404">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\SQLTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0b15220ed5e47285e22a7fd5d58c3db122a6c220\classes.dex" />
+    </item>
+    <item
+        jar="F:\Android_Studio_SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\SQLTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_f08fc822005cb4fe0b47420f57bf61202dbb81b0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\SQLTest\app\libs\commons-codec.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fd32786786e2adb664d5ecc965da47629dca14ba">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\SQLTest\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-codec_b6ea9fc5626d2eda8155aeaf9d3403186443338a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\SQLTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_2278082f4a55f060d3810693875cc9a317826ff9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\SQLTest\app\libs\ormlite-android-encryption.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="14f601320e7b2e0a1057d1027cdfb9594a3ff95b">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\SQLTest\app\build\intermediates\transforms\dex\debug\folders\1000\2\ormlite-android-encryption_fd92d4f6cf042867fd7fe1a65a3f1ba80d1e0980\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\SQLTest\app\libs\sqlcipher.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7c802fb62d64c80dd5f6972a4533720423ff9ad8">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\SQLTest\app\build\intermediates\transforms\dex\debug\folders\1000\2\sqlcipher_716caa7c54c148a4add073ab6813d017bb33eb57\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\SQLTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="cab971444fc02cd5d5a1e7011c855da39a0fb963">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\SQLTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8dc5d854520d6aea2aaec86af1d731b5ce1eb3f6\classes.dex" />
+    </item>
+
+</items>
